@@ -1,6 +1,8 @@
 import React from 'react'
-
-const ChannelList = () => {
+import { ChannelList, userChatContext } from 'stream-chat-react';
+import Cookies from 'universal-cookie';
+import { ChannelSearch, TeamChannelList, TeamChannelPreview } from './';
+const ChannelListContainer = () => {
     return (
         <div>
             ChannelList
@@ -8,4 +10,4 @@ const ChannelList = () => {
     )
 }
 
-export default ChannelList
+export default ChannelListContainer;
