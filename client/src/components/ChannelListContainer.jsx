@@ -5,7 +5,7 @@ import { ChannelSearch, TeamChannelList, TeamChannelPreview } from './';
 const ChannelListContainer = () => {
     return (
         <div>
-            ChannelList
+            ChannelListContainer
         </div>
     )
 }
