@@ -7,7 +7,9 @@ const sidebar = ()=>
 {
     <div className="channel-list__sidebar">
         <div className="channel-lis__sidebar__icon1">
-            
+            <div className="icon1__innr">
+                
+            </div>
         </div>
     </div>
 }
