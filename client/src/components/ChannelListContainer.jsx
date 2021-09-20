@@ -6,7 +6,7 @@ import { ChannelSearch, TeamChannelList, TeamChannelPreview } from './';
 const sidebar = ()=>
 {
     <div className="channel-list__sidebar">
-
+        <div className=""></div>
     </div>
 }
 
