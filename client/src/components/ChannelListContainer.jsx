@@ -8,7 +8,7 @@ const sidebar = ()=>
     <div className="channel-list__sidebar">
         <div className="channel-lis__sidebar__icon1">
             <div className="icon1__innr">
-                
+                <img src={HospitalIcon} alt="hospiatl" width="30" />
             </div>
         </div>
     </div>
